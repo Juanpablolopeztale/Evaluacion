@@ -1,0 +1,39 @@
+.logo{
+
+    text-align: center;
+}
+
+.fondo{
+
+    max-width: 40rem;
+    height: 100vh;
+
+    margin: auto;
+    padding: 1rem;
+    padding-top: 2rem;
+    
+}
+.menu{
+    cursor: pointer;
+}
+.Home{
+   align-items: center;
+    display: flex;
+    border: 2px solid rebeccapurple;
+    padding: .5em;
+    width: 100%;
+}
+.About{
+    align-items: center;
+     display: flex;
+     border: 2px solid rebeccapurple;
+     padding: .5em;
+     width: 100%;
+ }
+ .Contact{
+    align-items: center;
+     display: flex;
+     border: 2px solid rebeccapurple;
+     padding: .5em;
+     width: 100%;
+ }

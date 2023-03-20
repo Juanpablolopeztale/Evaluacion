@@ -1,0 +1,16 @@
+.fondo{
+
+    max-width: 40rem;
+    height: 100vh;
+
+    margin: auto;
+    padding: 1rem;
+    padding-top: 2rem;
+    
+}
+.menu{
+    cursor: pointer;
+}
+.team{
+    text-align: center;
+}

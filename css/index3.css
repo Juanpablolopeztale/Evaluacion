@@ -11,18 +11,15 @@
 .menu{
     cursor: pointer;
 }
-.Producto{
+.titulo_cont{
     text-align: center;
 }
-.Producto1{
-    border: 2px solid rebeccapurple;
-     padding: .5em;
-     width: 100%;
+.escribir{
+    display: flex;
+    border: 2px solid rgb(2, 1, 2);
+    padding: .5em;
+    width: 100%;
 }
-.Mueble1{
+.enviar{
     text-align: center;
-}
-.ver{
-    width: 150px;
-    margin: 10px;
 }

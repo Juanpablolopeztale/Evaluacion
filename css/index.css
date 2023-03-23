@@ -5,7 +5,7 @@
 
 .fondo{
 
-    max-width: 40rem;
+    max-width: 375px;
     height: 100vh;
 
     margin: auto;
@@ -43,3 +43,15 @@
  .singup{
     text-align: center;
  }
+
+ .footer {
+    display: grid;
+    max-width: 10rem;
+ }
+ div a{
+
+    color:rgb(14, 14, 14) ;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}

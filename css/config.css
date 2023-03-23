@@ -1,6 +1,6 @@
 .fondo{
 
-    max-width: 40rem;
+    max-width: 375px;
     height: 100vh;
 
     margin: auto;
@@ -25,4 +25,17 @@
 .ver{
     width: 150px;
     margin: 10px;
+}
+
+.paleta_colores{
+    background-color: aliceblue;
+    background-color: antiquewhite;
+    background-color: aqua;
+    background-color: aquamarine;
+    background-color: blue;
+    background-color: blueviolet;
+    background-color: yellowgreen;
+    background-color: red;
+    background-color: yellow;
+    background-color: darkgreen;
 }
